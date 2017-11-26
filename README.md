@@ -1,4 +1,4 @@
-# polymer-3-e6core
+# polymer-3-es6core
 Polymer 3 with es6 core
 
 This project requires *polymer-cli* and *yarn*.

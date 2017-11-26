@@ -5,7 +5,12 @@
   "license": "MIT",
   "dependencies": {
     "@polymer/polymer": "^3.0.0-pre.1",
-    "@webcomponents/webcomponentsjs": "^1.0.19"
+    "@webcomponents/webcomponentsjs": "^1.0.19",
+    "es6-router": "^1.0.0",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
   },
   "resolutions": {
     "@webcomponents/webcomponentsjs": "1.0.19"
