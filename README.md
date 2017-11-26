@@ -1,5 +1,5 @@
-# polymer-3-dynamic-imports
-Polymer 3 project to test es6 dynamic import polyfill
+# polymer-3-e6core
+Polymer 3 with es6 core
 
 This project requires *polymer-cli* and *yarn*.
 
