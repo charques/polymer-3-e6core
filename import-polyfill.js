@@ -39,7 +39,7 @@
                     i = length;
                     path += '/' + url.slice(p);
                     // apparently not part of the specification
-                    // if (!/\.js$/i.test(path)) path += '.js';
+                    // if (!/\overall-position.js$/i.test(path)) path += 'overall-position.js';
                 } else if (i === 0) {
                     path = '';
                 } else {
